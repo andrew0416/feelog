@@ -1,0 +1,2 @@
+# emotionful-diary
+감정을 메인 테마로 쓰는 일기 작성 사이트
